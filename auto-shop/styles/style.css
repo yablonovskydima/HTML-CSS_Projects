@@ -1,0 +1,42 @@
+body
+{
+    overflow-x: hidden;
+   
+}
+
+nav
+{
+    background-color: #5E7CA3;
+}
+
+section
+{
+    background-color: #BBC6D5;
+}
+
+#contacts  a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.contactsContent
+{
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.accordion-body
+{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+footer
+{
+    margin-top: 100px;
+    background-color: #5E7CA3;
+    color: white;
+}
